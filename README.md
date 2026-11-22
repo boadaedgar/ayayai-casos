@@ -14,6 +14,7 @@ I (Edgar Boada) run these sessions as free pilots while I build an AI-assisted b
 | Case | Business type | What it shows |
 |---|---|---|
 | [Artisan metal studio: from idle capacity to a demand plan](cases/2026-11-artisan-metal-studio/README.md) | One-person handmade cast-metal art studio selling online | Demand vs capacity, margin check, focused vs diversified plan, time balance |
+| [Instagram reach without followers: a month-1 follow-up](cases/2026-11-instagram-solo-practitioner/README.md) | One-person practice offering emotional guidance and online workshops | Reach vs followers, verifying the account type, a sign-up goal, a sustainable posting rhythm |
 
 More cases are added as sessions are completed and cleared with the clients.
 

@@ -23,6 +23,9 @@ Written for its reader. Same content, different versions: a plain-language plan 
 ## 7. Measure and adjust
 Weekly scorecard, monthly review, quarterly stage gates. Results are added to the case's update log at 30, 90 and 180 days, so the case shows what actually happened.
 
+## Variant: Instagram account report
+For a smaller engagement focused on one Instagram account (a report at the start, then follow-ups at months 1 and 2), see [templates/instagram-report-template.md](templates/instagram-report-template.md) and [templates/followup-month-1.md](templates/followup-month-1.md).
+
 ## Principles
 - Test the constraints: remove one and see whether the plan changes.
 - Never present an assumption as a fact.
